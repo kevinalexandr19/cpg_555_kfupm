@@ -1,4 +1,4 @@
-# GEOL 490 - Special Topics
+# CPG 555 - AI in Petroleum Engineering
 
 ## Course Professor: [Dr. Abdulazeez Abdulraheem](https://www.linkedin.com/in/abdulazeez-abdulraheem-212b0233/)
 
