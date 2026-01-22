@@ -7,7 +7,7 @@
 
 ### Code Author: [Kevin Alexander Gomez](https://www.linkedin.com/in/kevin-alexander-gomez/)
 
-Access the application by clicking on this [link](https://kevinalexandr19.github.io/geol_490_kfupm/).
+Access the application by clicking on this [link](https://kevinalexandr19.github.io/cpg_555_kfupm/lab/index.html?path=0_start.ipynb).
 
 ---
 
